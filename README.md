@@ -30,27 +30,35 @@ Tecnologia e Requisitos
 
 Esse projeto utiliza o ambiente a seguir:
 
-- [Ferramenta 1](#descrição)
-- [Ferramenta 2](#)
+- [Ferramenta 1](#Essenciais)
+- [Ferramenta 2](#Talvez)
 
 Configure e instale a ferramenta 1 e faça os seguintes passos:
 
-1. Passo 1
-2. Passo 2
+#Essenciais:
+<ul>
+  <li>Windows SO >=7</li>
+  <li>DbAccess atualizado(https://tdn.totvs.com/display/tec/DBAccess)</li>
+  <li>Protheus na última release recorrente e binários atualizados(https://www.totvs.com/blog/protheus-da-totvs/)</li>
+  <li>Conexão com o banco de dados</li>
+  <li>Conhecimentos básicos sobre queries e banco de dados(http://www.tutorialspoint.com/sql/)</li>
+  <li>Dicionário de dados\compatibilizador geral UPDDISTR e do módulo\ex: UPDTAF atualizado</li>
+  <li>Menus atualizados</li>
+</ul></ul>
+
+#Talvez:
+<ul>
+  <li>VSCode e Plugin para linguagem</li>
+  <li>Visual Studio</li>
+  <li>IntelliSense</li>
+</ul>
+
 
 Iniciando o Uso
 ----
 
-<_Aqui vai um mini manual de como utilizar o software e se necessário incluir um link para a documentação e exemplos de uso._>
+_Como você deve saber, não precisa de um "guia de uso" específico, já que cada pasta de projeto haverá codificações diversas, a o processo de codificação, compilação e chamada de funções é o mesmo._
 
-Para utilizar o software execute:
-```
-# Comando para iniciar
-$ ./comando-para-iniciar
-
-# Configuração
-$ ./commando-para-configurar --opções
-```
 
 Contribuindo
 ----
@@ -58,14 +66,9 @@ Contribuindo
 Para contribuir acesse o [guia de contribuição](CONTRIBUTING.md).
 
 
-Garanta que o seu código passe pelas verificações abaixo:
-```
-# run all unit tests
-$ make test  
+Garanta que o seu código passe pelas verificações:
+[Tipos](https://targettrust.com.br/blog/os-13-principais-tipos-de-testes-de-software/)
 
-# run the linter
-$ make lint  
-```
 
 Suporte e Migração
 ----

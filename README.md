@@ -20,8 +20,8 @@ Sumário
 Descrição
 ----
 
-<_Uma breve descrição da motivação por tras da criação e manutenção desse projeto. Esse texto deve descrever o **porque** desse projeto existir.
-Pode conter uma lista de funcionalidades, exemplos de uso (negócio) e telas de interface._>
+<_Aqui você poderá encontrar algumas funcionalidades, tutoriais, com embasamento na arquitetura Protheus. Lembre-se que pode contribuir com os projeots.
+Pode conter uma lista de funcionalidades, exemplos de uso (negócio) e telas de interface._
 
 Tecnologia e Requisitos
 ----

@@ -60,7 +60,7 @@ Contribuindo
 Para contribuir acesse o [guia de contribuição](CONTRIBUTING.md).
 
 
-Garanta que o seu código passe pelas [verificações](https://targettrust.com.br/blog/os-13-principais-tipos-de-testes-de-software/).
+_Garanta que o seu código passe pelas [verificações](https://targettrust.com.br/blog/os-13-principais-tipos-de-testes-de-software/)_.
 
 
 Suporte e Migração

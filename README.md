@@ -30,11 +30,6 @@ Tecnologia e Requisitos
 
 Esse projeto utiliza o ambiente a seguir:
 
-- [Ferramenta 1](#Essenciais)
-- [Ferramenta 2](#Talvez)
-
-Configure e instale a ferramenta 1 e faça os seguintes passos:
-
 ## Essenciais:
 <ul>
   <li>Windows SO >=7</li>
@@ -44,10 +39,9 @@ Configure e instale a ferramenta 1 e faça os seguintes passos:
   <li>Conhecimentos básicos sobre queries e banco de dados(http://www.tutorialspoint.com/sql/)</li>
   <li>Dicionário de dados\compatibilizador geral UPDDISTR e do módulo\ex: UPDTAF atualizado</li>
   <li>Menus atualizados</li>
-</ul></ul>
 
 ## Talvez:
-<ul>
+
   <li>VSCode e Plugin para linguagem</li>
   <li>Visual Studio</li>
   <li>IntelliSense</li>

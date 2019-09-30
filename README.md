@@ -36,7 +36,7 @@ Esse projeto utiliza o ambiente a seguir:
   <li><a href="https://tdn.totvs.com/display/tec/DBAccess">DbAccess</a> atualizado</li>
   <li><a href="https://www.totvs.com/blog/protheus-da-totvs">Protheus</a> na última release recorrente e binários atualizados</li>
   <li>Conexão com o banco de dados</li>
-  <li>Conhecimentos básicos sobre [queries](http://www.tutorialspoint.com/sql/) e banco de dados</li>
+  <li>Conhecimentos básicos sobre <a href="http://www.tutorialspoint.com/sql">queries</a> e banco de dados</li>
   <li>Dicionário de dados\compatibilizador geral UPDDISTR e do módulo\ex: UPDTAF atualizado</li>
   <li>Menus atualizados</li>
 </ul>

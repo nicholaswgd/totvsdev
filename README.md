@@ -1,8 +1,8 @@
 ![](header.png)
 
-Repositório de fontes customizados 
+Repositório de fontes customizados e open-source 
 ====
-_Neste repositório você encontrará projetos em linguagem advpl, tl++, além de algumas ferramentas úteis_
+_Neste repositório você encontrará projetos open-source em linguagem advpl, tl++, framework portinari-ui, falém de algumas ferramentas úteis_
 
 [![Node.js version support][shield-node]](#)
 [![Coverage][shield-coverage]](#)

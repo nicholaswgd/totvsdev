@@ -2,7 +2,7 @@
 
 Repositório de fontes customizados e open-source 
 ====
-_Neste repositório você encontrará projetos open-source em linguagem advpl, tl++, framework portinari-ui, falém de algumas ferramentas úteis_
+_Neste repositório você encontrará projetos open-source em linguagem advpl, tl++, framework portinari-ui, além de algumas ferramentas úteis_
 
 [![Node.js version support][shield-node]](#)
 [![Coverage][shield-coverage]](#)
@@ -74,13 +74,13 @@ _Realizamos o upload inicial de projetos em 1.0. As versões serão atualizadas 
 
 | Versão Maior  | Última Versão Menor | Data de fim de suporte |
 | :------------ | :------------------ | :--------------------- |
-| 3             | N/A                 | N/A                    |
-| 2             | 2.1                 | 2016-07-04             |
-| 1             | 1.4                 | 2015-01-26             |
+| 1.0           | N/A                 | N/A                    |
+| 2.1           | 1.0                 | N/A                    |
+
 
 Código de Conduta
 ----
-_Não será permitido:
+_Não será permitido:_
 <ul>
   <li>Fazer git push em arquivos idênticos</li>
   <li>Ofensas</li>

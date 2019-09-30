@@ -35,7 +35,7 @@ Esse projeto utiliza o ambiente a seguir:
 
 Configure e instale a ferramenta 1 e faça os seguintes passos:
 
-#Essenciais:
+## Essenciais:
 <ul>
   <li>Windows SO >=7</li>
   <li>DbAccess atualizado(https://tdn.totvs.com/display/tec/DBAccess)</li>
@@ -46,7 +46,7 @@ Configure e instale a ferramenta 1 e faça os seguintes passos:
   <li>Menus atualizados</li>
 </ul></ul>
 
-#Talvez:
+## Talvez:
 <ul>
   <li>VSCode e Plugin para linguagem</li>
   <li>Visual Studio</li>

@@ -40,7 +40,7 @@ Esse projeto utiliza o ambiente a seguir:
   <li>Dicionário de dados\compatibilizador geral UPDDISTR e do módulo\ex: UPDTAF atualizado</li>
   <li>Menus atualizados</li>
 </ul>
-<p>Talvez:</p>
+<p><b>Talvez:</b></p>
 <ul>
   <li>VSCode e Plugin para linguagem</li>
   <li>Visual Studio</li>

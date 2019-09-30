@@ -33,10 +33,10 @@ Esse projeto utiliza o ambiente a seguir:
 <p><b>Essenciais:</b></p>
 <ul>
   <li>Windows SO >=7</li>
-  <li>DbAccess atualizado(https://tdn.totvs.com/display/tec/DBAccess)</li>
-  <li>Protheus na última release recorrente e binários atualizados(https://www.totvs.com/blog/protheus-da-totvs/)</li>
+  <li>[DbAccess] atualizado(https://tdn.totvs.com/display/tec/DBAccess)</li>
+  <li>[Protheus] na última release recorrente e binários atualizados(https://www.totvs.com/blog/protheus-da-totvs/)</li>
   <li>Conexão com o banco de dados</li>
-  <li>Conhecimentos básicos sobre queries e banco de dados(http://www.tutorialspoint.com/sql/)</li>
+  <li>Conhecimentos básicos sobre [queries] e banco de dados(http://www.tutorialspoint.com/sql/)</li>
   <li>Dicionário de dados\compatibilizador geral UPDDISTR e do módulo\ex: UPDTAF atualizado</li>
   <li>Menus atualizados</li>
 </ul>
@@ -60,8 +60,7 @@ Contribuindo
 Para contribuir acesse o [guia de contribuição](CONTRIBUTING.md).
 
 
-Garanta que o seu código passe pelas verificações:
-[Tipos](https://targettrust.com.br/blog/os-13-principais-tipos-de-testes-de-software/)
+Garanta que o seu código passe pelas [verificações].(https://targettrust.com.br/blog/os-13-principais-tipos-de-testes-de-software/)
 
 
 Suporte e Migração

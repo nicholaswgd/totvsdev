@@ -6,7 +6,7 @@ Seguir esse guia ajuda a demonstrar que você respeita o tempo utilizado pelos d
 
 ## Utilizando a lista de _issues_
 
-A lista de _issues_ é o canal preferido para [relatar problemas](#relatar-problemas), [solicitar melhorias](#feature-requests) e [enviar _pull requests_](#pull-requests), mas por favor 
+A lista de _issues_ é o canal preferido para [relatar problemas](#relatar-problemas), [solicitar melhorias](#feature-requests) e [enviar _pull requests_](#pull-requests). 
 
 ## Relatar problemas
 

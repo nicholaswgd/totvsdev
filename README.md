@@ -1,6 +1,8 @@
-Título do repositório 
+![](header.png)
+
+Repositório de fontes customizados 
 ====
-<_Uma breve descrição do produto ou conteúdo do repositório. Remova as partes entre <> que estão em itálico_>
+_Neste repositório você encontrará projetos em linguagem advpl, tl++, além de algumas ferramentas úteis_
 
 [![Node.js version support][shield-node]](#)
 [![Coverage][shield-coverage]](#)
@@ -20,15 +22,15 @@ Sumário
 Descrição
 ----
 
-<_Uma breve descrição da motivação por tras da criação e manutenção desse projeto. Esse texto deve descrever o **porque** desse projeto existir.
-Pode conter uma lista de funcionalidades, exemplos de uso (negócio) e telas de interface._>
+_Aqui você poderá encontrar algumas funcionalidades, tutoriais, com embasamento na arquitetura Protheus. Lembre-se que pode contribuir com os projetos. Algumas novas funcionalidades e implementações na arquiteutra também são abordados nos projetos.
+Pode conter uma lista de funcionalidades, exemplos de uso (negócio) e telas de interface._
 
 Tecnologia e Requisitos
 ----
 
 Esse projeto utiliza o ambiente a seguir:
 
-- [Ferramenta 1](#)
+- [Ferramenta 1](#descrição)
 - [Ferramenta 2](#)
 
 Configure e instale a ferramenta 1 e faça os seguintes passos:
@@ -53,7 +55,8 @@ $ ./commando-para-configurar --opções
 Contribuindo
 ----
 
-Para contribuir acesse o [guia de contribuição](CONTRIBUTING.md). <_um exemplo do arquivo CONTRIBUTING.md poderá ser obtido [aqui](http://code.engpro.totvs.com.br/engpro/guides/src/branch/master/pt-BR/README.md)_>
+Para contribuir acesse o [guia de contribuição](CONTRIBUTING.md).
+
 
 Garanta que o seu código passe pelas verificações abaixo:
 ```
@@ -67,7 +70,7 @@ $ make lint
 Suporte e Migração
 ----
 
-<_Descreva o modelo de suporte, se houver._>
+_Realizamos o upload inicial de projetos em 1.0. As versões serão atualizadas de acordo com o projeto. Isso significa que cada projeto\pasta, conterá seu próprio arquivo de "LEIA-ME" ou README.md, bem como seu próprio versionamento de código. Os projetos alocados em subpastas receberão como LICENSE e CONTRIBUIÇÃO os arquivos da pasta primária (totvsdev), por herança._
 
 | Versão Maior  | Última Versão Menor | Data de fim de suporte |
 | :------------ | :------------------ | :--------------------- |
@@ -77,11 +80,18 @@ Suporte e Migração
 
 Código de Conduta
 ----
+_Não será permitido:
+<ul>
+  <li>Fazer git push em arquivos idênticos</li>
+  <li>Ofensas</li>
+  <li>Issues inapropriadas</li>
+</ul>
+
 
 Licença
 ----
 
-<_título do software_> é licenciado pela licença [MIT](LICENSE.md). <_ver licenciamento [aqui](http://code.engpro.totvs.com.br/engpro/guides/src/branch/master/pt-BR/README.md)_>
+_Distribuído sob_ a licença [MIT](LICENSE). _Veja mais sobre licenciamento [aqui](https://choosealicense.com/licenses/)_
 
 [shield]: https://www.shields.io
 [shield-coverage]: https://img.shields.io/badge/coverage-80%25-brightgreen.svg

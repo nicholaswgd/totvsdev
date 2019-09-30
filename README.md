@@ -20,7 +20,7 @@ Sumário
 Descrição
 ----
 
-<_Aqui você poderá encontrar algumas funcionalidades, tutoriais, com embasamento na arquitetura Protheus. Lembre-se que pode contribuir com os projeots.
+_Aqui você poderá encontrar algumas funcionalidades, tutoriais, com embasamento na arquitetura Protheus. Lembre-se que pode contribuir com os projetos. Algumas novas funcionalidades e implementações na arquiteutra também são abordados nos projetos.
 Pode conter uma lista de funcionalidades, exemplos de uso (negócio) e telas de interface._
 
 Tecnologia e Requisitos

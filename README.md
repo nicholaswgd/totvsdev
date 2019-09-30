@@ -33,7 +33,7 @@ Esse projeto utiliza o ambiente a seguir:
 <p><b>Essenciais:</b></p>
 <ul>
   <li>Windows SO >=7</li>
-  <li>DbAccess [atualizado]</li>(https://tdn.totvs.com/display/tec/DBAccess)
+  <li><a href="https://tdn.totvs.com/display/tec/DBAccess">DbAccess</a>atualizado</li>
   <li>[Protheus](https://www.totvs.com/blog/protheus-da-totvs/) na última release recorrente e binários atualizados</li>
   <li>Conexão com o banco de dados</li>
   <li>Conhecimentos básicos sobre [queries](http://www.tutorialspoint.com/sql/) e banco de dados</li>

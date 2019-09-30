@@ -53,7 +53,8 @@ $ ./commando-para-configurar --opções
 Contribuindo
 ----
 
-Para contribuir acesse o [guia de contribuição](CONTRIBUTING.md). <_um exemplo do arquivo CONTRIBUTING.md poderá ser obtido [aqui](http://code.engpro.totvs.com.br/engpro/guides/src/branch/master/pt-BR/README.md)_>
+Para contribuir acesse o [guia de contribuição](CONTRIBUTING.md).
+
 
 Garanta que o seu código passe pelas verificações abaixo:
 ```
@@ -67,7 +68,7 @@ $ make lint
 Suporte e Migração
 ----
 
-<_Descreva o modelo de suporte, se houver._>
+_Realizamos o upload inicial de projetos em 1.0. As versões serão atualizadas de acordo com o projeto. Isso significa que cada projeto\pasta, conterá seu próprio arquivo de "LEIA-ME" ou README.md, bem como seu próprio versionamento de código. Os projetos alocados em subpastas receberão como LICENSE e CONTRIBUIÇÃO os arquivos da pasta primária (totvsdev), por herança._
 
 | Versão Maior  | Última Versão Menor | Data de fim de suporte |
 | :------------ | :------------------ | :--------------------- |
@@ -77,6 +78,13 @@ Suporte e Migração
 
 Código de Conduta
 ----
+_Não será permitido:
+<ul>
+  <li>Fazer git push em arquivos idênticos</li>
+  <li>Ofensas</li>
+  <li>Issues inapropriadas</li>
+</ul>
+
 
 Licença
 ----

@@ -6,7 +6,7 @@ _Neste repositório você encontrará projetos open-source em linguagem advpl, t
 
 [![Node.js version support][shield-node]](#)
 [![Coverage][shield-coverage]](#)
-[![MIT licensed][shield-license]](#) <_ver [shields.io][shield]_>
+[![MIT licensed][shield-license]](#) _ver [shields.io][shield]_
 
 Sumário
 ----
@@ -48,7 +48,7 @@ Esse projeto utiliza o ambiente a seguir:
 </ul>
 
 
-Iniciando o Uso
+Iniciando o uso
 ----
 
 _Como você deve saber, não precisa de um "guia de uso" específico, já que cada pasta de projeto haverá codificações diversas, a o processo de codificação, compilação e chamada de funções é o mesmo._

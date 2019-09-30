@@ -1,6 +1,6 @@
 Repositório de fontes customizados 
 ====
-<_Uma breve descrição do produto ou conteúdo do repositório. Remova as partes entre <> que estão em itálico_>
+<_Neste repositório você encontrará projetos em linguagem advpl, tl++, além de algumas ferramentas úteis_>
 
 [![Node.js version support][shield-node]](#)
 [![Coverage][shield-coverage]](#)

@@ -30,7 +30,7 @@ Tecnologia e Requisitos
 
 Esse projeto utiliza o ambiente a seguir:
 
-<p>Essenciais:</p>
+<p><b>Essenciais:</b></p>
 <ul>
   <li>Windows SO >=7</li>
   <li>DbAccess atualizado(https://tdn.totvs.com/display/tec/DBAccess)</li>

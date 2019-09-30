@@ -81,7 +81,7 @@ Código de Conduta
 Licença
 ----
 
-_Distribuído sob_ a licença [MIT](LICENSE.md). _ver licenciamento [aqui](http://code.engpro.totvs.com.br/engpro/guides/src/branch/master/pt-BR/README.md)_>
+_Distribuído sob_ a licença [MIT](LICENSE). _ver licenciamento [aqui](http://code.engpro.totvs.com.br/engpro/guides/src/branch/master/pt-BR/README.md)_>
 
 [shield]: https://www.shields.io
 [shield-coverage]: https://img.shields.io/badge/coverage-80%25-brightgreen.svg

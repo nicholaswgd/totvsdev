@@ -30,7 +30,7 @@ Tecnologia e Requisitos
 
 Esse projeto utiliza o ambiente a seguir:
 
-## Essenciais:
+<p>Essenciais:</p>
 <ul>
   <li>Windows SO >=7</li>
   <li>DbAccess atualizado(https://tdn.totvs.com/display/tec/DBAccess)</li>
@@ -39,9 +39,9 @@ Esse projeto utiliza o ambiente a seguir:
   <li>Conhecimentos básicos sobre queries e banco de dados(http://www.tutorialspoint.com/sql/)</li>
   <li>Dicionário de dados\compatibilizador geral UPDDISTR e do módulo\ex: UPDTAF atualizado</li>
   <li>Menus atualizados</li>
-
-## Talvez:
-
+</ul>
+<p>Talvez:</p>
+<ul>
   <li>VSCode e Plugin para linguagem</li>
   <li>Visual Studio</li>
   <li>IntelliSense</li>

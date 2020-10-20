@@ -1,0 +1,41 @@
+kind: pipeline
+name: TAF-THF
+
+workspace:
+  base: /totvs/drone
+  path: taf-thf
+
+steps:
+- name: test
+  image: alpine:3.10
+  commands:
+    - apk update && apk add chromium nodejs npm zip bash
+    - export CHROME_BIN=/usr/bin/chromium-browser
+    - bash /totvs/drone/taf-thf/scripts/test.sh
+  when:
+    event:
+      - push
+      - tag
+
+- name: build
+  image: docker.totvs.io/engpro/super-container-tool:alpine-latest
+  commands:
+    - export GIT_TAG=${DRONE_TAG}
+    - bash /totvs/drone/taf-thf/scripts/build.sh
+  when:
+    event:
+      - push
+      - tag
+
+- name: gitea-release
+  image: plugins/gitea-release
+  settings:
+    base_url: https://code.engpro.totvs.com.br
+    api_key:
+      from_secret: gitea-token
+    files: "/totvs/drone/taf-thf/release/*"
+    title: ${DRONE_TAG}
+    draft: false
+    prerelease: true
+  when:
+    event: tag
